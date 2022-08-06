@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Greetings from Hasin Hayder
 
-<!--
-**hasinhayder/hasinhayder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Developer with a huge love for Alpine.js, Vue.js, React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, and System Architecture. Currently I'm open for work and employment opportunities.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently creating two courses on Alpine.js and WordPress security, and a few WordPress plugins for helping WordPress administrators to manage plugins with so many cool features like never before.
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 👯 I’m currently open for work and employment opportunities (remote and relocation)
+- 💬 Ask me about Vue.js, React.js, Alpine.js, PHP, WordPress, Laravel and API development.
+- 📫 I am just one mail away - [hasin at hasinhayder dot com]
+- 😄 Pronouns: He, Fat & Happy 😄
+- :partying_face: Fun fact: I love to cook, I love to sing, I love to travel on my motorcycle.
+- :book: My books - I have written four books, "Object Oriented Programming with PHP", "WordPress Complete", "Facebook App Development" and "Smarty"
+- :wrench: Tools - VSCode, Insomnia, Beekeper Studio and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux (Zorin OS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
