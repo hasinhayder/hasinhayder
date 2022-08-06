@@ -18,8 +18,8 @@ I love to read books and listen to music.
 - :envelope_with_arrow: I run a weekly newsletter service for the developers, [Developers Treasure Chest](https://newsletter.hasin.me) where you will find a curated list of awesome resources.
 
 ## Numbers
-![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=vue-dark&hide_border=true)
+![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)
 
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
