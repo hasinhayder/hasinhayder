@@ -17,7 +17,7 @@ I love to read books and listen to music.
 - :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local for Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux (Zorin OS).
 - :envelope_with_arrow: I run a weekly newsletter service for the developers, [Developers Treasure Chest](https://newsletter.hasin.me) where you will find a curated list of awesome resources.
 
-## Numbers
+### Numbers
 ![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
 ![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)
