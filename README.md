@@ -15,6 +15,7 @@ I love to read books and listen to music.
 - :partying_face: Fun fact: I love to cook, I love to sing, I love to travel on my motorcycle.
 - :book: My books - I have written four books, "Object Oriented Programming with PHP", "WordPress Complete", "Facebook App Development" and "Smarty"
 - :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux (Zorin OS).
+- :envelope_with_arrow: I run a weekly newsletter service for the developers, [Developers Treasure Chest](https://newsletter.hasin.me) where you will find a curated list of awesome resources.
 
 ## Numbers
 ![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
