@@ -1,6 +1,6 @@
 ### Hi there 👋, Greetings from Hasin Hayder
 
-I am a Full Stack Developer with a huge love for Alpine.js, Vue.js, React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, and System Architecture. Currently, I'm open to work and employment opportunities.
+I am a Full Stack Developer with a huge love for Alpine.js, Vue.js, React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, and System Architecture. Currently, **I'm open to work and employment opportunities**.
 
 I am the co-founder of HappyAddons, one of the most popular and adored Elementor Addons Libraries. I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.
 
@@ -14,4 +14,4 @@ I love to read books and listen to music.
 - 😄 Pronouns: He, Fat & Happy 😄
 - :partying_face: Fun fact: I love to cook, I love to sing, I love to travel on my motorcycle.
 - :book: My books - I have written four books, "Object Oriented Programming with PHP", "WordPress Complete", "Facebook App Development" and "Smarty"
-- :wrench: Tools - VSCode, Insomnia, Beekeper Studio and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux (Zorin OS).
+- :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux (Zorin OS).
