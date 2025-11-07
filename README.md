@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> 
-  Hey! Nice to see you.
+  From Bangladesh to the world — I build, teach, and share.
 </h1>
 
 <p align="center">
