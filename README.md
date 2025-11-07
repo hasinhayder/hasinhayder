@@ -13,7 +13,7 @@
 Hi there! I'm **Hasin Hayder**, a passionate **Full Stack Developer** who loves building scalable and performant web applications.  
 My tech stack includes **Alpine.js**, **Vue.js**, **React.js**, **Laravel**, **Headless Technologies**, **APIs**, **RDBMS**, **WordPress**, **TailwindCSS**, and **System Architecture**.
 
-I'm the **co-founder of HappyMonster**, where we developed **[HappyAddons](https://happyaddons.com)** — one of the most popular Elementor addon libraries with over **300K active installations**.  
+I'm the **co-founder of HappyMonster**, where we developed **[HappyAddons](https://happyaddons.com)** - one of the most popular Elementor addon libraries with over **300K active installations**.  
 I actively build **WordPress plugins**, **Laravel applications**, **Shell scripts**, and **APIs** for both product and consumer-facing projects.  
 
 Currently, **I'm open to work and exciting new employment opportunities** (remote or relocation).  
@@ -31,14 +31,14 @@ Experienced in architecting **robust, scalable, and maintainable systems**, from
 I build full-stack applications optimized for **performance, scalability, and developer productivity**, leveraging caching, queueing systems, database optimization, and load balancing for high-traffic environments.
 
 ### 🔗 REST API Development
-Expert in designing and implementing **RESTful APIs** — secure, documented, and scalable.  
+Expert in designing and implementing **RESTful APIs** - secure, documented, and scalable.  
 I follow standards like **OpenAPI/Swagger**, apply **JWT/Sanctum authentication**, rate limiting, and detailed versioning and error handling for production-grade APIs.
 
 ### 🚀 Performance and Security
-Dedicated to **performance tuning and security hardening** — from query optimization and caching to OWASP-based audits, CSRF/XSS prevention, and secure deployment pipelines.
+Dedicated to **performance tuning and security hardening** - from query optimization and caching to OWASP-based audits, CSRF/XSS prevention, and secure deployment pipelines.
 
 ### 🔌 WordPress Plugin Development
-As co-founder of **HappyMonster**, I specialize in building **WordPress plugins** that are secure, modular, and extensible — always following WP coding standards, sanitization best practices, and offering intuitive UIs.
+As co-founder of **HappyMonster**, I specialize in building **WordPress plugins** that are secure, modular, and extensible - always following WP coding standards, sanitization best practices, and offering intuitive UIs.
 
 ### 🎯 Headless WordPress Development
 Skilled in implementing **Headless WordPress** architectures, decoupling the frontend from WordPress backend using REST API and GraphQL. I build modern, performant web applications with WordPress as a headless CMS, enabling flexible frontend frameworks and improved performance.
@@ -52,15 +52,15 @@ Skilled in implementing **Headless WordPress** architectures, decoupling the fro
 - 🧠 Currently creating courses on **Alpine.js** and **WordPress Security**
 - 🧩 Building **[Eazy Plugin Manager](https://eazyplugins.com/eazy-plugin-manager/)** to redefine plugin management for WordPress admins
 - 🚀 Developing **PainlessWP**, a truly painless managed WordPress hosting service
-- 🌱 Lifelong learner — every day brings new lessons
+- 🌱 Lifelong learner - every day brings new lessons
 - 👯 Open to **remote work and relocation opportunities**
 - 💬 Ask me about **Vue.js, React.js, Alpine.js, PHP, Laravel, WordPress, and REST API Development**
 - 📫 Reach me at: [hasin@hasinhayder.com](mailto:hasin@hasinhayder.com)
-- 😄 Pronouns: He/Him — **Fat & Happy**
+- 😄 Pronouns: He/Him - **Fat & Happy**
 - 🏍️ Fun fact: I love **cooking, singing,** and **traveling on my motorcycle**
 - 📚 Author of: _"Object Oriented Programming with PHP"_, _"WordPress Complete"_, _"Facebook App Development"_, and _"Smarty"_
 - 🧰 Tools I love: VSCode, Insomnia, Beekeeper Studio, Markdown Editors, Spotify, Docker, and ZSH with PowerLevel10K
-- 📰 Creator of the newsletter **[Developers Treasure Chest](https://newsletter.hasin.me)** — weekly curated dev resources
+- 📰 Creator of the newsletter **[Developers Treasure Chest](https://newsletter.hasin.me)** - weekly curated dev resources
 - 👥 Community builder: Admin of **[WordPressians](https://www.facebook.com/groups/241884142616448)**, **[Talk.js](https://www.facebook.com/groups/talkjs.net)**, **[phpXperts](https://www.facebook.com/groups/256755924335725)**, and **[Laravel Bangladesh](https://www.facebook.com/groups/188317497974479)**
 
 ---
