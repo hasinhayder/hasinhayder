@@ -30,18 +30,25 @@ Experienced in architecting **robust, scalable, and maintainable systems**, from
 ### ⚙️ Scalable Web Application Development
 I build full-stack applications optimized for **performance, scalability, and developer productivity**, leveraging caching, queueing systems, database optimization, and load balancing for high-traffic environments.
 
+## ⚡ Skills & Expertise
+
+### 🧩 System Architecture & Design
+Experienced in designing **robust and scalable systems** that grow with business needs. I focus on creating **reliable architectures** that handle increased traffic and complexity while maintaining performance.
+
+### ⚙️ Scalable Web Application Development
+I build full-stack applications optimized for **growth and performance**. I implement smart caching, efficient database practices, and load balancing to ensure applications stay fast and reliable as they grow.
+
 ### 🔗 REST API Development
-Expert in designing and implementing **RESTful APIs** - secure, documented, and scalable.  
-I follow standards like **OpenAPI/Swagger**, apply **JWT/Sanctum authentication**, rate limiting, and detailed versioning and error handling for production-grade APIs.
+Expert in creating **secure and well-documented APIs** that power modern applications. I design APIs that are easy to use, properly secured, and built to handle real-world demands.
 
 ### 🚀 Performance and Security
-Dedicated to **performance tuning and security hardening** - from query optimization and caching to OWASP-based audits, CSRF/XSS prevention, and secure deployment pipelines.
+Dedicated to **optimizing performance and strengthening security**. I focus on making applications faster while implementing best practices to keep them safe and protected.
 
 ### 🔌 WordPress Plugin Development
-As co-founder of **HappyMonster**, I specialize in building **WordPress plugins** that are secure, modular, and extensible - always following WP coding standards, sanitization best practices, and offering intuitive UIs.
+As co-founder of **HappyMonster**, I specialize in building **WordPress plugins** that are secure, user-friendly, and follow best practices for reliable performance.
 
 ### 🎯 Headless WordPress Development
-Skilled in implementing **Headless WordPress** architectures, decoupling the frontend from WordPress backend using REST API and GraphQL. I build modern, performant web applications with WordPress as a headless CMS, enabling flexible frontend frameworks and improved performance.
+Skilled in implementing **modern WordPress setups** where the frontend and backend work independently. This approach enables flexible, fast web applications using WordPress as a content management system.
 
 ---
 
@@ -55,7 +62,6 @@ Skilled in implementing **Headless WordPress** architectures, decoupling the fro
 - 🌱 Lifelong learner - every day brings new lessons
 - 👯 Open to **remote work and relocation opportunities**
 - 💬 Ask me about **Vue.js, React.js, Alpine.js, PHP, Laravel, WordPress, and REST API Development**
-- 📫 Reach me at: [hasin@hasinhayder.com](mailto:hasin@hasinhayder.com)
 - 😄 Pronouns: He/Him - **Fat & Happy**
 - 🏍️ Fun fact: I love **cooking, singing,** and **traveling on my motorcycle**
 - 📚 Author of: _"Object Oriented Programming with PHP"_, _"WordPress Complete"_, _"Facebook App Development"_, and _"Smarty"_
@@ -133,7 +139,7 @@ Skilled in implementing **Headless WordPress** architectures, decoupling the fro
 ## 📊 GitHub Stats
 
 ![Hasin's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)  
-![Hasin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasinhayder&theme=dark-smoky)](https://git.io/streak-stats)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ---
