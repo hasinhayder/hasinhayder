@@ -41,6 +41,9 @@ Dedicated to **performance tuning and security hardening** — from query optimi
 ### 🔌 WordPress Plugin Development
 As co-founder of **HappyMonster**, I specialize in building **WordPress plugins** that are secure, modular, and extensible — always following WP coding standards, sanitization best practices, and offering intuitive UIs.
 
+### 🎯 Headless WordPress Development
+Skilled in implementing **Headless WordPress** architectures, decoupling the frontend from WordPress backend using REST API and GraphQL. I build modern, performant web applications with WordPress as a headless CMS, enabling flexible frontend frameworks and improved performance.
+
 ---
 
 ## 🌍 What I'm Up To
@@ -63,7 +66,7 @@ As co-founder of **HappyMonster**, I specialize in building **WordPress plugins*
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Tools & Technologies
 
 ### 🖥️ Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -100,7 +103,7 @@ As co-founder of **HappyMonster**, I specialize in building **WordPress plugins*
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases / KV
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
