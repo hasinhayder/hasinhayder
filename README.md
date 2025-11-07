@@ -1,5 +1,5 @@
 <h1 align="center">
-  From Bangladesh to the world — I build, teach, and share.
+  From Bangladesh to the world - I build, teach, and share.
 </h1>
 
 <p align="center">
