@@ -16,7 +16,7 @@ My tech stack includes **Alpine.js**, **Vue.js**, **React.js**, **Laravel**, **H
 I'm the **co-founder of HappyMonster**, where we developed **[HappyAddons](https://happyaddons.com)** - one of the most popular Elementor addon libraries with over **300K active installations**.  
 I actively build **WordPress plugins**, **Laravel applications**, **Shell scripts**, and **APIs** for both product and consumer-facing projects.  
 
-Currently, **I'm open to work and exciting new employment opportunities** (remote or relocation).  
+Currently, **I'm open to work and new opportunities** (remote).  
 
 When I’m not coding, I enjoy **reading books, listening to music, and riding my motorcycle**.
 
