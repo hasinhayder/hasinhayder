@@ -13,7 +13,7 @@
 Hi there! I'm **Hasin Hayder**, a passionate **Full Stack Developer** who loves building scalable and performant web applications.  
 My tech stack includes **Alpine.js**, **Vue.js**, **React.js**, **Laravel**, **Headless Technologies**, **APIs**, **RDBMS**, **WordPress**, **TailwindCSS**, and **System Architecture**.
 
-I'm the **co-founder of HappyMonster**, where we developed **[HappyAddons](https://happyaddons.com)** - one of the most popular Elementor addon libraries with over **300K active installations**.  
+I'm the **co-founder of HappyMonster**, where we developed **[HappyAddons](https://happyaddons.com)** - one of the most popular Elementor addon libraries with over **400K active installations**.  
 I actively build **WordPress plugins**, **Laravel applications**, **Shell scripts**, and **APIs** for both product and consumer-facing projects.  
 
 Currently, **I'm open to work and new opportunities** (remote).  
