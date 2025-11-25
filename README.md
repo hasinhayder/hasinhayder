@@ -30,14 +30,6 @@ Experienced in architecting **robust, scalable, and maintainable systems**, from
 ### ⚙️ Scalable Web Application Development
 I build full-stack applications optimized for **performance, scalability, and developer productivity**, leveraging caching, queueing systems, database optimization, and load balancing for high-traffic environments.
 
-## ⚡ Skills & Expertise
-
-### 🧩 System Architecture & Design
-Experienced in designing **robust and scalable systems** that grow with business needs. I focus on creating **reliable architectures** that handle increased traffic and complexity while maintaining performance.
-
-### ⚙️ Scalable Web Application Development
-I build full-stack applications optimized for **growth and performance**. I implement smart caching, efficient database practices, and load balancing to ensure applications stay fast and reliable as they grow.
-
 ### 🔗 REST API Development
 Expert in creating **secure and well-documented APIs** that power modern applications. I design APIs that are easy to use, properly secured, and built to handle real-world demands.
 
