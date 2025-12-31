@@ -1,146 +1,138 @@
 <h1 align="center">
-  From Bangladesh to the world - I build, teach, and share.
+  Building scalable systems. Teaching developers. Shipping real products.
 </h1>
 
 <p align="center">
-  <em>Full Stack Developer • Educator • System Architect • Author</em>
+  <em>Full Stack Engineer • System Architect • Educator • Author</em>
+</p>
+
+<p align="center">
+  From Bangladesh to the global developer ecosystem
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-Hi there! I'm **Hasin Hayder**, a passionate **Full Stack Developer** who loves building scalable and performant web applications.  
-My tech stack includes **Alpine.js**, **Vue.js**, **React.js**, **Laravel**, **Headless Technologies**, **APIs**, **RDBMS**, **WordPress**, **TailwindCSS**, and **System Architecture**.
+Hi, I’m **Hasin Hayder** — a **Full Stack Engineer and System Architect** with a strong background in building **scalable web platforms**, **developer tools**, and **high-traffic WordPress products**.
 
-I'm the **co-founder of HappyMonster**, where we developed **[HappyAddons](https://happyaddons.com)** - one of the most popular Elementor addon libraries with over **400K active installations**.  
-I actively build **WordPress plugins**, **Laravel applications**, **Shell scripts**, and **APIs** for both product and consumer-facing projects.  
+I work across the stack with **PHP, JavaScript, Python, and Node.js**, and I’m deeply interested in **architecture, performance, and long-term maintainability**. My work blends **practical engineering**, **clean design**, and **real-world constraints**.
 
-Currently, **I'm open to work and new opportunities** (remote).  
+I’m the **co-founder of HappyMonster**, where we built **[HappyAddons](https://happyaddons.com)** — one of the most widely used Elementor addon libraries with **400,000+ active installations** worldwide.
 
-When I’m not coding, I enjoy **reading books, listening to music, and riding my motorcycle**.
+Beyond building products, I actively teach, write, and mentor developers, focusing on helping them think better about code, systems, and trade-offs.
+
+I’m a natural problem solver and enjoy finding creative solutions to real-world challenges. I love learning new technologies and applying them to practical problems, not just for the sake of it.
+
+📌 **Currently open to remote opportunities and impactful collaborations.**
 
 ---
 
-## ⚡ Skills & Expertise
+## 🧠 Core Expertise
 
 ### 🧩 System Architecture & Design
-Experienced in architecting **robust, scalable, and maintainable systems**, from microservices to monolithic structures. I focus on **clean abstractions, modularity,** and **high availability**, ensuring scalability and fault tolerance across environments.
+- Designing **scalable, modular, and maintainable systems**
+- Monoliths, modular monoliths, and service-oriented architectures
+- Clean abstractions, separation of concerns, and fault tolerance
+- Practical architecture decisions over theoretical perfection
 
-### ⚙️ Scalable Web Application Development
-I build full-stack applications optimized for **performance, scalability, and developer productivity**, leveraging caching, queueing systems, database optimization, and load balancing for high-traffic environments.
+### ⚙️ Full-Stack Application Development
+- End-to-end application development with performance in mind
+- Backend-heavy systems with efficient frontend delivery
+- Strong focus on developer experience and long-term sustainability
 
-### 🔗 REST API Development
-Expert in creating **secure and well-documented APIs** that power modern applications. I design APIs that are easy to use, properly secured, and built to handle real-world demands.
+### 🔗 API Design & Backend Engineering
+- Secure, well-documented **REST APIs**
+- Authentication, authorization, rate limiting, and versioning
+- Real-world API design driven by actual consumer needs
 
-### 🚀 Performance and Security
-Dedicated to **optimizing performance and strengthening security**. I focus on making applications faster while implementing best practices to keep them safe and protected.
+### 🚀 Performance & Security
+- Database optimization, caching strategies, and async processing
+- Web security best practices across PHP, Node.js, and Python stacks
+- Measurable performance improvements over premature optimization
 
-### 🔌 WordPress Plugin Development
-As co-founder of **HappyMonster**, I specialize in building **WordPress plugins** that are secure, user-friendly, and follow best practices for reliable performance.
+### 🔌 WordPress & Plugin Engineering
+- Large-scale **WordPress plugin architecture**
+- Clean extensibility, backward compatibility, and upgrade safety
+- Deep understanding of WordPress internals and ecosystem realities
 
-### 🎯 Headless WordPress Development
-Skilled in implementing **modern WordPress setups** where the frontend and backend work independently. This approach enables flexible, fast web applications using WordPress as a content management system.
-
----
-
-## 🌍 What I'm Up To
-
-- 🎉 Lead Organizer of **WordCamp Dhaka 2019** and part of the **Program Team for WordCamp Dhaka 2025**
-- 🎤 **Key Speaker** at **Web & Data Summit 2024** and **DevConf 2024**, delivering sessions on Laravel, JavaScript & WordPress
-- 🧠 Currently creating courses on **Alpine.js** and **WordPress Security**
-- 🧩 Building **[Eazy Plugin Manager](https://eazyplugins.com/eazy-plugin-manager/)** to redefine plugin management for WordPress admins
-- 🚀 Developing **PainlessWP**, a truly painless managed WordPress hosting service
-- 🌱 Lifelong learner - every day brings new lessons
-- 👯 Open to **remote work and relocation opportunities**
-- 💬 Ask me about **Vue.js, React.js, Alpine.js, PHP, Laravel, WordPress, and REST API Development**
-- 😄 Pronouns: He/Him - **Fat & Happy**
-- 🏍️ Fun fact: I love **cooking, singing,** and **traveling on my motorcycle**
-- 📚 Author of: _"Object Oriented Programming with PHP"_, _"WordPress Complete"_, _"Facebook App Development"_, and _"Smarty"_
-- 🧰 Tools I love: VSCode, Insomnia, Beekeeper Studio, Markdown Editors, Spotify, Docker, and ZSH with PowerLevel10K
-- 📰 Creator of the newsletter **[Developers Treasure Chest](https://newsletter.hasin.me)** - weekly curated dev resources
-- 👥 Community builder: Admin of **[WordPressians](https://www.facebook.com/groups/241884142616448)**, **[Talk.js](https://www.facebook.com/groups/talkjs.net)**, **[phpXperts](https://www.facebook.com/groups/256755924335725)**, and **[Laravel Bangladesh](https://www.facebook.com/groups/188317497974479)**
+### 🎯 Headless & Modern WordPress
+- WordPress as a **content engine**, not just a theme system
+- Headless setups using REST APIs
+- Performance-focused CMS architectures
 
 ---
 
-## 🧠 Tools & Technologies
+## 🌍 Community, Products & Speaking
 
-### 🖥️ Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-77C1D2?style=flat-square&logo=alpine.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4F46E5?style=flat-square&logo=laravel&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-
-### 🎨 Frontend & Styling
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-### 🧩 CMS & Plugins
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
-
-### 🗄️ Databases / KV
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
-![Valkey](https://img.shields.io/badge/Valkey-DC382D?style=flat-square&logo=valkey&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### 💻 Operating Systems
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-
-### ✍️ Other
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+- 🎤 **Speaker** at *Web & Data Summit 2024* and *DevConf 2024*
+- 🧑‍💼 **Lead Organizer** — WordCamp Dhaka 2019  
+- 🧑‍💻 **Program Team Member** — WordCamp Dhaka 2025
+- 🧠 Educator at **Learn with Hasin Hayder**
+- 📰 Creator of **[Developers Treasure Chest](https://newsletter.hasin.me)** — weekly curated developer insights
+- 🧩 Building **Eazy Plugin Manager** — rethinking plugin management for WordPress
+- 🚀 Working on **PainlessWP** — simplified managed WordPress hosting
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Writing & Education
 
-![Hasin's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasinhayder&theme=dark-smoky)](https://git.io/streak-stats)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+**Books authored:**
+- *Object Oriented Programming with PHP*
+- *WordPress Complete*
+- *Facebook App Development*
+- *Smarty*
+
+**Teaching focus areas:**
+- PHP & Laravel internals
+- JavaScript fundamentals and frameworks
+- REST APIs & backend architecture
+- WordPress plugin and security engineering
+- System design for real-world applications
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Technology Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thestoryteller/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hasin)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/hasin)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@hasinhayder)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://hasinhayder.com)
-[![Email](https://img.shields.io/badge/Email-hasin%20%5Bat%5D%20hasinhayder%20%5Bdot%5D%20com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hasin@hasinhayder.com)
+### Programming Languages
+JavaScript · TypeScript · PHP · Python · SQL · Shell
+
+### Frameworks & Libraries
+Laravel · Vue.js · React · Alpine.js · Node.js · Express  
+Django · DRF · Flask · FastAPI · Livewire · Inertia.js · Bun
+
+### Databases & Storage
+MySQL · MariaDB · PostgreSQL · SQLite · Redis · Valkey
+
+### Frontend & Styling
+HTML5 · CSS3 · Tailwind CSS · Bootstrap · Vite
+
+### DevOps & Tooling
+Docker · Git · Nginx · GitHub Actions  
+Cloudflare · Netlify · Linux · macOS
+
+---
+
+## 📊 GitHub Activity
+
+![Hasin's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasinhayder&theme=dark-smoky)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&hide_border=true&layout=compact)
+
+---
+
+## 🌐 Connect
+
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/thestoryteller/
+- 🐦 **Twitter/X:** https://twitter.com/hasin
+- ▶️ **YouTube:** https://www.youtube.com/@hasinhayder
+- 🌍 **Website:** https://hasinhayder.com
+- 📩 **Email:** hasin@hasinhayder.com
+
+---
+
+<p align="center">
+  <em>I believe great software comes from clear thinking, not more complexity.</em>
+</p>
