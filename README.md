@@ -127,8 +127,8 @@ Cloudflare · Netlify · Linux · macOS
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/thestoryteller/
 - 🐦 **Twitter/X:** https://twitter.com/hasin
-- ▶️ **YouTube:** https://www.youtube.com/@hasinhayder
-- 🌍 **Website:** https://hasinhayder.com
+- ▶️ **YouTube:** https://www.youtube.com/@learnwithhasinhayder
+- 🌍 **Website:** https://hasin.me
 - 📩 **Email:** hasin@hasinhayder.com
 
 ---
