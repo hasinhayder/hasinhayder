@@ -51,17 +51,24 @@ The goal is to provide developer-first tooling that balances speed with long-ter
 
 ---
 
+## Writing
+
+Author of four technical books on software engineering and web technologies.
+
+---
+
 ## Products & Community
 
 **Speaking:**
 - Web & Data Summit 2024  
 - DevConf 2024  
-- WordCamp Dhaka 2025, 2019 (Lead Organizer)
-= WordCamp Kualumpur 2019
+- WordCamp Dhaka 2025, 2019
+- WordCamp Kualumpur 2019
 - WordCamp Sylhet 2023
 - International Freelancers Meetup (IFM) 2026  
 - Facebook Developer Garage
 - TEDx RUET
+- Many, many more!
 
 **Community & Initiatives:**
 - Lead Organizer — WordCamp Dhaka 2019  
