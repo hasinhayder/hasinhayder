@@ -73,8 +73,7 @@ Author of four technical books on software engineering and web technologies.
 **Community & Initiatives:**
 - Lead Organizer — WordCamp Dhaka 2019  
 - Program Team — WordCamp Dhaka 2025  
-- Creator — Developers Treasure Chest (weekly curated insights)  
-- Building — Eazy Plugin Manager & PainlessWP  
+- Building — PainlessWP, InteractiveEngine and Tyro Ecosystem
 
 ---
 
