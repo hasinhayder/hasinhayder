@@ -74,6 +74,7 @@ Author of four technical books on software engineering and web technologies.
 - Lead Organizer — WordCamp Dhaka 2019  
 - Program Team — WordCamp Dhaka 2025  
 - Building — PainlessWP, InteractiveEngine and Tyro Ecosystem
+- WordPressians, phpXperts, Talk.js, Laravel Bangladesh
 
 ---
 
