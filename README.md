@@ -30,7 +30,11 @@ A cohesive Laravel ecosystem focused on reducing boilerplate and improving archi
 | **Tyro** | Enterprise-ready RBAC engine with 40+ developer-focused Artisan CLI commands |
 | **Tyro Login** | Authentication scaffolding and identity layer |
 | **Tyro Dashboard** | Intelligent admin panel with instant CRUD generation |
+| **Tyro Checkpoint** | Database snapshot and rollback engine for safe migrations, experimentation, and reproducible development workflows. |
 | **TyroLabs** | Experimental and advanced feature development |
+
+The goal is to provide developer-first tooling that balances speed with long-term maintainability.
+
 
 The goal is to provide developer-first tooling that balances speed with long-term maintainability.
 
