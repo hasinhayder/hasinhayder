@@ -10,14 +10,14 @@
 
 ## About Me
 
-I’m **Hasin Hayder** — a backend-focused Full Stack Engineer and System Architect building scalable web platforms, developer tools, and high-traffic WordPress products.
+I’m **Hasin Hayder**, a backend-focused Full Stack Engineer and System Architect building scalable web platforms, developer tools, and high-traffic WordPress products.
 
 Co-founder of **HappyMonster**, creators of **HappyAddons** (400,000+ active installations worldwide).
 
 I am the creator of the **Tyro Ecosystem**, a Laravel-focused developer ecosystem designed to simplify application architecture while preserving clarity, scalability, and developer productivity.
 
 I specialize in API-driven systems, production infrastructure, and long-term maintainable architectures.  
-I believe great software comes from clear thinking — not unnecessary complexity.
+I believe great software comes from clear thinking, not unnecessary complexity.
 
 ---
 
@@ -75,9 +75,9 @@ Author of four technical books on software engineering and web technologies.
 - Many, many more!
 
 **Community & Initiatives:**
-- Lead Organizer — WordCamp Dhaka 2019  
-- Program Team — WordCamp Dhaka 2025  
-- Building — PainlessWP, InteractiveEngine and Tyro Ecosystem
+- Lead Organizer: WordCamp Dhaka 2019  
+- Program Team: WordCamp Dhaka 2025  
+- Building: HappyAddons, PainlessWP, InteractiveEngine and Tyro Ecosystem
 - WordPressians, phpXperts, Talk.js, Laravel Bangladesh
 
 ---
@@ -109,5 +109,5 @@ Email: hasin@hasinhayder.com
 ---
 
 <p align="center">
-  <em>Architecting systems that scale. Teaching developers how to think.</em>
+  <em>Architecting systems that scale. Teaching developers how to think and write better code.</em>
 </p>
